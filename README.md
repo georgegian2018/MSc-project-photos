@@ -28,10 +28,29 @@
 
 ---
 
+## 📚 Related Publications & Thesis
+
+The original **MSc thesis** associated with the figures in this repository was written during **2007–2008**.
+
+A related research paper based on this work was published more recently and is available on arXiv:
+- 📄 https://arxiv.org/abs/2412.06667
+
+The full MSc thesis is also available as a book via Zenodo:
+- 📘 DOI: https://doi.org/10.5281/zenodo.11180849  
+- 📘 Record: https://zenodo.org/records/11180849
+
+In general, all related articles, theses, and research outputs can be found on my personal website:
+- 🌐 https://progenesisarxiv.io/
+
+---
+
 ## 📄 Repository Content & License
 
 This repository contains figures and images derived from my **MSc thesis**.  
-All materials in this repository are distributed under the **GPL-2.0 license**.
+The project is licensed under the **GNU General Public License v2.0 (GPL-2.0)** — see the `LICENSE` file for full details.
 
----
 Academic attribution is expected when these figures are reused in publications, presentations, or derivative works.
+
+
+
+
