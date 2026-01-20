@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use these figures in academic work, please cite the associated MSc thesis or related publication."
+type: dataset
+title: "MSc Project Photos: Thesis Figures Archive"
+authors:
+  - family-names: Giannakopoulos
+    given-names: Georgios
+license: GPL-2.0
+year: 2008
+url: https://github.com/georgegian2018/MSc-project-photos
+related-identifiers:
+  - identifier: https://doi.org/10.5281/zenodo.11180849
+    type: doi
+    relation: isSupplementTo
+  - identifier: https://arxiv.org/abs/2412.06667
+    type: url
+    relation: isRelatedTo
