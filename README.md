@@ -32,3 +32,6 @@
 
 This repository contains figures and images derived from my **MSc thesis**.  
 All materials in this repository are distributed under the **GPL-2.0 license**.
+
+---
+Academic attribution is expected when these figures are reused in publications, presentations, or derivative works.
