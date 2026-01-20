@@ -10,18 +10,23 @@
 ![Citation](https://img.shields.io/badge/Citation-Required-critical)
 ![Usage](https://img.shields.io/badge/Usage-Publications%20Allowed-brightgreen)
 
+---
 
+## 🏷️ Badge Overview
 
+| Badge | Meaning |
+|------|--------|
+| **License: GPL-2.0** | Clear legal reuse terms |
+| **Content: Thesis Figures** | Explicitly states what the repository contains |
+| **Degree: MSc** | Academic level & provenance |
+| **Format: Images \| Figures** | Indicates visual-only content |
+| **Purpose: Academic Reference** | Signals citation-friendly usage |
+| **Status: Archived** | Indicates stable, non-evolving content |
+| **Field: Engineering** | Academic discipline |
+| **Citation: Required** | Citation expected when reused |
+| **Usage: Publications Allowed** | Permitted use in academic publications |
 
-| Badge                           | Meaning                                  |
-| ------------------------------- | ---------------------------------------- |
-| **License: GPL-2.0**            | Clear legal reuse terms                  |
-| **Content: Thesis Figures**     | Explicitly states what the repo contains |
-| **Degree: MSc**                 | Academic level & provenance              |
-| **Format: Images | Figures**    | Sets expectations (no code)              |
-| **Purpose: Academic Reference** | Signals citation-friendly usage          |
-| **Status: Archived**            | Indicates stable, non-evolving content   |
-
+---
 
 ## 📄 Repository Content & License
 
